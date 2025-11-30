@@ -49,4 +49,4 @@ Add API tests
 Add CI/CD (GitHub Actions)
 # 👤 Author
 Aditya Kumar
-QA Engineer | Learning Selenium + TestNG Automation
+QA Engineer | Selenium + TestNG Automation
